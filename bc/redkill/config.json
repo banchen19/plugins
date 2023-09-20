@@ -1,0 +1,190 @@
+{
+    "Days_interval": 5,
+    "time_day_number": 2,
+    "effetc_number": 3,
+    "play_Days_interval": 14000,
+    "end_Days_interval": 22000,
+    "rand_day": 1,
+    "effect": {
+        "迅捷": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "缓慢": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "急迫": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "挖掘疲劳": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "力量": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "瞬间治疗": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "瞬间伤害": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "跳跃提升": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "反胃": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "生命恢复": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "抗性提升": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "抗火": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "水下呼吸": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "隐身": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "失明": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "夜视": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "饥饿": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "虚弱": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "中毒": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "凋零": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "生命提升": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "伤害吸收": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "饱和": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "飘浮": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "中毒（致命）": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "潮涌能量": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "缓降": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "不祥之兆": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "村庄英雄": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        },
+        "黑暗": {
+            "probability": 20,
+            "tick": 20,
+            "level": 2,
+            "showParticles": true
+        }
+    }
+}

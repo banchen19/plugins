@@ -1,0 +1,10 @@
+{
+    "plugin_name": "团队模块",
+    "default_team": "敌人",
+    "team_add": "创建队伍",
+    "team_join": "加入队伍",
+    "team_exit": "退出队伍",
+    "team_mg": "管理队伍",
+    "setok": "设置成功",
+    "setno": "设置失败"
+}

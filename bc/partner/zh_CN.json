@@ -1,0 +1,12 @@
+{
+    "plugin_name": "伴侣模块",
+    "plugin_msg": "前置模块：年龄、性别",
+    "welcome_Message": "爱人先爱己",
+    "gui_post_title": "伴侣请求",
+    "marry_post": "牵手",
+    "marry_refuse": "分手",
+    "ok": "同意",
+    "no": "拒绝",
+    "fail": "执行失败",
+    "bigamy": "重婚"
+}

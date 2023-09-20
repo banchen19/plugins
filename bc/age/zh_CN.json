@@ -1,0 +1,7 @@
+{
+    "plugin_name": "年龄模块",
+    "welcome_Message": "当前年龄：",
+    "time_str": "岁",
+    "setok": "设置成功",
+    "setno": "设置失败"
+}

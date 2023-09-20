@@ -1,0 +1,8 @@
+{
+    "plugin_name": "性别模块",
+    "welcome_Message": "当前性别：",
+    "boy": "男",
+    "girl": "女",
+    "setok": "设置成功",
+    "setno": "设置失败"
+}

@@ -1,0 +1,33 @@
+{
+    "boy_max": 3,
+    "boyNumber": 10,
+    "boy_cd_m": 5,
+    "boy_ps_name": "minecraft:basic_flame_particle",
+    "boy_hand_item_type": "minecraft:paper",
+    "girl_max": 3,
+    "girlNumber": 10,
+    "girl_cd_m": 5,
+    "girl_ps_name": "minecraft:water_splash_particle",
+    "girl_hand_item_type": "minecraft:lightning_rod",
+    "girl_msg": "呜~~呜~哼~嗯",
+    "扣血": {
+        "id": 19,
+        "kick": 50,
+        "level": 1
+    },
+    "失明": {
+        "id": 15,
+        "kick": 300,
+        "level": 1
+    },
+    "虚弱": {
+        "id": 18,
+        "kick": 800,
+        "level": 1
+    },
+    "加血效果": {
+        "id": 6,
+        "kick": 100,
+        "level": 1
+    }
+}
